@@ -17,8 +17,8 @@
 ## Клонирование
 
 ```bash
-git clone https://github.com/maxonchik17569/Laba_1.git
-cd Laba_1
+git clone https://github.com/maxonchik17569/mtp-lab1-variant7.git
+cd mtp-lab1-variant7
 ```
 
 ## Запуск
